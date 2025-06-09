@@ -1,1 +1,1 @@
-# Desafio prático para o processo seletivo de Analista de Sistemas Júnior - SENAI/SC
+# Desafio prático para o processo seletivo de Analista de Sistemas - SENAI/SC
