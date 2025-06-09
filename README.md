@@ -1,2 +1,1 @@
-# apresenta-o-FIEC
-Apresentação FIESC
+# Desafio prático para o processo seletivo de Analista de Sistemas Júnior - SENAI/SC
